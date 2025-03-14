@@ -1,0 +1,27 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+myenv/
+env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore sensitive files
+.env
+secrets.json
+credentials.json
