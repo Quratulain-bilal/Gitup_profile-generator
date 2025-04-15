@@ -27,18 +27,7 @@ A GitHub account for stats integration (optional)
 Clone the Repository:
 bash
 
-Copy
-git clone https://github.com/your-username/github-profile-generator.git
-cd github-profile-generator
-Install Dependencies:
-bash
 
-Copy
-pip install -r requirements.txt
-Run the Application:
-bash
-
-Copy
 streamlit run app.py
 Access the App: Open your browser and go to http://localhost:8501.
 📖 Usage
