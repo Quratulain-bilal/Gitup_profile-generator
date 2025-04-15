@@ -26,7 +26,7 @@ A GitHub account for stats integration (optional)
 🛠️ Installation
 Clone the Repository:
 bash
-
+https://github.com/Quratulain-bilal/Gitup_profile-generator.git
 
 streamlit run app.py
 Access the App: Open your browser and go to http://localhost:8501.
