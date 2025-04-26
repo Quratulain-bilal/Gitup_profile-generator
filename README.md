@@ -90,4 +90,4 @@ Streamlit for the amazing framework.
 GitHub Readme Stats for stats visuals.
 Shields.io for badge icons.
 All contributors who make this project better! ❤️
-⭐ Star this repo if you find it helpful! Let's make GitHub profiles shine together! 🌟
+⭐ Star this repo if you find it helpful! Let's make GitHub profiles shine together thank you ! 🌟
