@@ -83,7 +83,7 @@ Steps to reproduce
 Expected behavior
 Screenshots (if applicable)
 📜 License
-This project is licensed under the MIT License. See the  file for details.
+This project is licensed under the MIT License. 
 
 🙌 Acknowledgments
 Streamlit for the amazing framework.
