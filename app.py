@@ -1,6 +1,6 @@
 import streamlit as st
 
-# Inline CSS for full-page glassmorphism effect
+# Inline CSS for glassmorphism effect
 st.markdown(
     """
 <style>
