@@ -82,8 +82,7 @@ Description of the bug 🐞
 Steps to reproduce
 Expected behavior
 Screenshots (if applicable)
-📜 License
-This project is licensed under the MIT License. 
+
 
 🙌 Acknowledgments
 Streamlit for the amazing framework.
